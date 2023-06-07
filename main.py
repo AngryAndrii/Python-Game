@@ -49,7 +49,7 @@ def create_enemy():
 
 
 CREATE_ENEMY = pygame.USEREVENT + 1
-pygame.time.set_timer(CREATE_ENEMY, 1500)
+pygame.time.set_timer(CREATE_ENEMY, 1700)
 
 enemies = []
 bonuses = []
